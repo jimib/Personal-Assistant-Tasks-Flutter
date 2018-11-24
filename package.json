@@ -1,6 +1,6 @@
 {
   "name": "@jimib/pa-tasks-flutter",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Tasks for React supported by Personal-Assistant",
   "main": "index.js",
   "license": "MIT",
