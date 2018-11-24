@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
-class {{id}} extends StatelessWidget {
+class {{name}} extends StatelessWidget {
   @override
+  //START:BUILD
   Widget build(BuildContext context) {
     return Container(
-      child: child,
+      child: Text('{{name}}'),
     );
   }
+  //END:BUILD
 }
