@@ -17,6 +17,7 @@ class _{{name}}State extends State<{{name}}> with SingleTickerProviderStateMixin
       lowerBound: 0.0,
       upperBound: 1.0,
       value: 0.0,
+      duration: Duration(seconds:1)
     );
   }
 
